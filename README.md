@@ -4,5 +4,3 @@ This is a C# console game I have created to learn C#.  It needs major improvemen
 ## Setup
 Load the .sln in visual studio and run it.  Follow the instuctions in the console.
 
-## Bugs
-Still buggy and needs huge improvements
